@@ -1,0 +1,79 @@
+.contact{
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5%;
+}
+.contact h1{
+    font-family: var(--font-five);
+    font-size: clamp(2rem,2vw,3rem);
+    color: var(--secondary);
+    text-shadow: 3px 3px 3px var(--primary);
+}
+.contact-card{
+    min-width: 70%;
+    padding: 10px;
+    background-color: var(--secondary);
+    border-radius: 10px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact-card h2{
+    color: #FFFFFF;
+    font-family: var(--font-two);
+    font-size: clamp(1.5rem,1.4vw,2.5rem);
+}
+.address{
+    color: #FFFFFF;
+    font-size: 13px;
+}
+.connect{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+.connect a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.connect a:hover {
+  text-decoration: underline;
+}
+
+.connect a[href^="mailto"]:hover {
+  color: #2563eb; /* blue */
+}
+
+.connect a[href^="tel"]:hover {
+  color: #16a34a; /* green */
+}
+
+.connect img {
+  width: 20px;
+  height: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .contact{
+        width: 100%;
+        height: auto;
+    }
+    .contact-card{
+        width: 80%;
+    }
+}
