@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/estys/static/css/main.7de05d76.css",
+    "main.js": "/estys/static/js/main.be387798.js",
+    "static/js/453.7d4a084d.chunk.js": "/estys/static/js/453.7d4a084d.chunk.js",
+    "static/media/menucard.png": "/estys/static/media/menucard.643bbb32dd359999b321.png",
+    "static/media/rice.png": "/estys/static/media/rice.14cf14167a1afe9a94ed.png",
+    "static/media/extras.png": "/estys/static/media/extras.9a1917a567b99b1e3cdb.png",
+    "static/media/vegies.png": "/estys/static/media/vegies.211753e084b21e39a2e4.png",
+    "static/media/special.png": "/estys/static/media/special.679553a8af8cc78517ef.png",
+    "static/media/meat.png": "/estys/static/media/meat.4e7b7e0c707cba227497.png",
+    "static/media/bgsecond.png": "/estys/static/media/bgsecond.e9f76f775fbe70a21f7b.png",
+    "static/media/bgfirst.png": "/estys/static/media/bgfirst.bf3ad722f445660fb6c0.png",
+    "static/media/fufu.png": "/estys/static/media/fufu.ff779bcb8978134655fa.png",
+    "static/media/fish-soup.png": "/estys/static/media/fish-soup.20757fbff5c5e6d761c6.png",
+    "static/media/loading.webp": "/estys/static/media/loading.b8acb7bbb934f45eee1a.webp",
+    "static/media/Waakye.jpg": "/estys/static/media/Waakye.f5729f109208fb72d315.jpg",
+    "static/media/bankua.png": "/estys/static/media/bankua.dd74799833404eb2be69.png",
+    "static/media/yallof.jpg": "/estys/static/media/yallof.aaf691cc895d73c3debf.jpg",
+    "static/media/logo.png": "/estys/static/media/logo.ebc937a12eb67eda351b.png",
+    "static/media/service.svg": "/estys/static/media/service.c18307cf51d74733ca6ff9c7756c3a2c.svg",
+    "static/media/online.svg": "/estys/static/media/online.5c206b3e8b37e117892627fb6cac4953.svg",
+    "static/media/book.webp": "/estys/static/media/book.340403b795fe191d560b.webp",
+    "static/media/table.svg": "/estys/static/media/table.5348f65cbe577fea4116df7797732b8c.svg",
+    "static/media/lieferando.svg": "/estys/static/media/lieferando.b6d3ca5ed96e7113129e53c335649b16.svg",
+    "index.html": "/estys/index.html",
+    "static/media/account.svg": "/estys/static/media/account.c945cbf0d12489af85d3f58dee824f02.svg",
+    "static/media/phone.svg": "/estys/static/media/phone.79639f267f167edbf97ffe630282eb46.svg",
+    "static/media/shop.svg": "/estys/static/media/shop.1dd58cd1bbc7fbd9ba98a9c5eb9fd579.svg",
+    "static/media/mail.svg": "/estys/static/media/mail.c5ccfc153975b5fdead63394a7abaaeb.svg",
+    "main.7de05d76.css.map": "/estys/static/css/main.7de05d76.css.map",
+    "main.be387798.js.map": "/estys/static/js/main.be387798.js.map",
+    "453.7d4a084d.chunk.js.map": "/estys/static/js/453.7d4a084d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de05d76.css",
+    "static/js/main.be387798.js"
+  ]
+}
